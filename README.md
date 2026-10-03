@@ -16,3 +16,15 @@ Associate researcher
 
 
  - I teach biodiversity and conservation at [Pontificia Universidad Católica de Chile](https://agronomia.uc.cl/) 🌳🌵🌱  
+ 
+ &nbsp; 
+ 
+ ## Research projects  
+ &nbsp; 
+ 
+ ### Fractalandia - footprints of human activity on biodiversity patterns across Chile  
+ -[Github (in progress)](https://github.com/Fractalandia)  
+ 
+ ### Rasgos-CL - an open database for plant functional traits of Chile  
+ - [Github](https://github.com/dylancraven/Rasgos-CL)  
+ - [Interactive website](https://rasgos.cl)  
