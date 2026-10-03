@@ -1,9 +1,9 @@
 ## Dylan Craven
-Pontificia Universidad Católica de Chile
-Departamento de Ecosistemas y Medio Ambiente
-Profesor asistente
+Pontificia Universidad Católica de Chile  
+Departamento de Ecosistemas y Medio Ambiente  
+Profesor asistente  
 
-Data Observatory Foundation   
+Data Observatory Foundation     
 Associate researcher  
 
 
@@ -23,7 +23,7 @@ Associate researcher
  &nbsp; 
  
  ### Fractalandia - footprints of human activity on biodiversity patterns across Chile  
- -[Github (in progress)](https://github.com/Fractalandia)  
+ - [Github (in progress)](https://github.com/Fractalandia)  
  
  ### Rasgos-CL - an open database for plant functional traits of Chile  
  - [Github](https://github.com/dylancraven/Rasgos-CL)  
