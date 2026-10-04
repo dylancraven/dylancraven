@@ -14,7 +14,8 @@ Associate researcher
 [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3940-833X)
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl)
 
-
+ - My research is focused on the causes and consequences of biodiversity patterns, in Chile and elsewhere (e.g., Panamà and Hawaii). 🗺️      
+ - I am a big fan of ecological synthesis and open data.  
  - I teach biodiversity and conservation at [Pontificia Universidad Católica de Chile](https://agronomia.uc.cl/) 🌳🌵🌱  
  
  &nbsp; 
@@ -24,6 +25,7 @@ Associate researcher
  
  ### Fractalandia - footprints of human activity on biodiversity patterns across Chile  
  - [Github (in progress)](https://github.com/Fractalandia)  
+ - [Project website - coming soon!]()
  
  ### Rasgos-CL - an open database for plant functional traits of Chile  
  - [Github](https://github.com/dylancraven/Rasgos-CL)  
