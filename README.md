@@ -16,7 +16,7 @@ Associate researcher
 
  - My research is focused on the causes and consequences of biodiversity patterns, in Chile and elsewhere (e.g., Panamà and Hawaii). 🗺️      
  - I am a big fan of ecological synthesis and open data.  
- - I teach biodiversity and conservation at [Pontificia Universidad Católica de Chile](https://agronomia.uc.cl/) 🌳🌵🌱  
+ - I teach conservation of biodiversity and protected area management at [Pontificia Universidad Católica de Chile](https://agronomia.uc.cl/) 🌳🌵🌱  
  
  &nbsp; 
  
